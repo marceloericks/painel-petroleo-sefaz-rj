@@ -57,55 +57,55 @@ O projeto foi desenvolvido com elevado grau de autonomia, em interação direta 
 
 Tela de entrada e navegação do painel.
 
-![Menu Inicial](images/menu-inicial.jpeg)
+![Menu Inicial](menu-inicial.jpeg)
 
 ## Receita Arrecadada
 
 Painel executivo para acompanhamento da arrecadação das receitas petrolíferas, com indicadores estratégicos, comparativos anuais e análises temporais.
 
-![Receita Arrecadada](images/dashboard-receita.jpeg)
+![Receita Arrecadada](dashboard-receita.jpeg)
 
 ## Receita Arrecadada — Cenário de 2020
 
 Exemplo de utilização do painel para análise de um período de retração das receitas, evidenciando variações negativas e seus impactos nos indicadores de arrecadação.
 
-![Receita Arrecadada 2020](images/dashboard-receita-2020.jpeg)
+![Receita Arrecadada 2020](dashboard-receita-2020.jpeg)
 
 ## Destinação de Recursos
 
 Painel voltado à análise da distribuição institucional dos recursos provenientes do petróleo.
 
-![Destinação de Recursos](images/dashboard-destinacao.jpeg)
+![Destinação de Recursos](dashboard-destinacao.jpeg)
 
 ## Série Histórica
 
 Acompanhamento da evolução das receitas petrolíferas ao longo do período analisado.
 
-![Série Histórica](images/serie-historica.jpeg)
+![Série Histórica](serie-historica.jpeg)
 
 ## Implementação de Regra Fiscal em DAX
 
 Exemplo de regra de negócio implementada para tratamento histórico do FISED.
 
-![DAX FISED](images/dax-fised.jpeg)
+![DAX FISED](dax-fised.jpeg)
 
 ## Indicadores de Variação
 
 Tooltip desenvolvido para fornecer análises comparativas rápidas entre períodos.
 
-![Tooltip Variação](images/tooltip-variacao.jpeg)
+![Tooltip Variação](tooltip-variacao.jpeg)
 
 ## UX e Contextualização
 
 Recursos desenvolvidos para ampliar a compreensão dos indicadores e facilitar a navegação dos usuários.
 
-![UX Tooltip](images/ux-tooltip.jpeg)
+![UX Tooltip](ux-tooltip.jpeg)
 
 ## Recursos Informativos
 
 Elementos complementares de contextualização institucional incorporados à solução.
 
-![Bookmark Informativo](images/bookmark-informativo.jpeg)
+![Bookmark Informativo](bookmark-informativo.jpeg)
 
 ## Resultados
 
