@@ -75,7 +75,7 @@ Exemplo de utilização do painel para análise de um período de retração das
 
 Painel voltado à análise da distribuição institucional dos recursos provenientes do petróleo.
 
-![Destinação de Recursos](dashboard-destinacao.jpeg)
+![Destinação de Recursos](dashboard-destinação.jpeg)
 
 ## Série Histórica
 
