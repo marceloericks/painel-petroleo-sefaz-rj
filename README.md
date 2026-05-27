@@ -4,7 +4,7 @@
 
 Projeto institucional desenvolvido para modernizar a análise de receitas petrolíferas e da destinação de recursos do Tesouro do Estado do Rio de Janeiro.
 
-A iniciativa teve como objetivo substituir o painel anteriormente utilizado pela secretaria, consolidando indicadores estratégicos, séries históricas, regras fiscais e métricas executivas em um ambiente analítico único para apoio à tomada de decisão.
+A iniciativa teve como objetivo substituir o painel anteriormente utilizado pela secretaria, consolidando indicadores estratégicos, séries históricas de arrecadação e destinação de recursos entre 2016 e 2026, regras fiscais e métricas executivas em um ambiente analítico único para apoio à tomada de decisão.
 
 ## Meu Papel
 
@@ -79,7 +79,7 @@ Painel voltado à análise da distribuição institucional dos recursos provenie
 
 ## Série Histórica
 
-Acompanhamento da evolução das receitas petrolíferas ao longo do período analisado.
+Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e identificação de tendências históricas de arrecadação e destinação dos recursos do petróleo.
 
 ![Série Histórica](serie-historica.jpeg)
 
