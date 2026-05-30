@@ -85,7 +85,7 @@ Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permi
 
 ## Implementação de Regra Fiscal em DAX
 
-Exemplo de regra de negócio implementada para tratamento histórico do FISED.
+Exemplo de regra fiscal implementada para o FISED (Fundo Estadual de Investimentos e Ações de Segurança Pública e Desenvolvimento Social do Estado do Rio de Janeiro). A medida identifica receitas petrolíferas elegíveis por meio da combinação de códigos de fonte e nomenclaturas específicas, consolidando os valores destinados ao fundo. A lógica também contempla tratamentos distintos para diferentes períodos da série histórica, refletindo mudanças nas regras de contabilização das receitas ao longo do tempo. Sua implementação utilizou funções como CALCULATE, FILTER, CONTAINSSTRING e IF para traduzir regras fiscais e contábeis em indicadores analíticos consistentes.
 
 ![DAX FISED](dax-fised.jpeg)
 
