@@ -21,7 +21,7 @@ Minhas responsabilidades incluíram:
 - Validação funcional da solução junto às áreas demandantes
 - Apresentação executiva do projeto para a Subsecretária do Tesouro e demais stakeholders envolvidos
 
-O projeto foi desenvolvido com elevado grau de autonomia, em interação direta com áreas de negócio e gestão, desde a concepção até a entrega final.
+O projeto foi desenvolvido com ownership e autonomia operacional, em interação direta com stakeholders de negócio e gestão, desde o levantamento de requisitos até a entrega final da solução.
 
 ## Principais Desafios
 
@@ -44,7 +44,7 @@ O projeto foi desenvolvido com elevado grau de autonomia, em interação direta 
 ## Competências Demonstradas
 
 - Business Intelligence
-- Data Analytics
+- Tradução de regras de negócio em métricas analíticas
 - Levantamento de requisitos
 - Modelagem de dados
 - SQL
@@ -79,7 +79,7 @@ Painel voltado à análise da distribuição institucional dos recursos provenie
 
 ## Série Histórica
 
-Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e identificação de tendências históricas de arrecadação e destinação dos recursos do petróleo.
+Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e acompanhamento da evolução das receitas petrolíferas ao longo de onze exercícios fiscais.
 
 ![Série Histórica](serie-historica.jpeg)
 
@@ -109,11 +109,11 @@ Elementos complementares de contextualização institucional incorporados à sol
 
 ## Resultados
 
-- Consolidação de indicadores estratégicos em um ambiente analítico único
+- Consolidação dos indicadores de arrecadação e destinação de recursos petrolíferos em uma única solução analítica.
 - Projeto desenvolvido para substituir o painel anteriormente utilizado pela secretaria
 - Implementação de regras fiscais e métricas especializadas
 - Padronização das regras fiscais utilizadas nas análises históricas
-- Estrutura preparada para atualização contínua e acompanhamento histórico
+- Estrutura analítica preparada para acompanhamento contínuo da série histórica entre 2016 e 2026.
 - Aprimoramento da interpretação executiva dos dados
 - Redução da fragmentação de informações entre diferentes fontes institucionais
 - Disponibilização de visão executiva para acompanhamento da arrecadação e destinação de recursos
