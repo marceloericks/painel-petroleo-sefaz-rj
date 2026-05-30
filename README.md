@@ -79,7 +79,7 @@ Painel voltado à análise da distribuição institucional dos recursos provenie
 
 ## Série Histórica
 
-Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e acompanhamento da evolução das receitas petrolíferas ao longo de onze exercícios fiscais.
+Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e identificação de tendências ao longo de onze exercícios fiscais.
 
 ![Série Histórica](serie-historica.jpeg)
 
