@@ -19,7 +19,7 @@ Minhas responsabilidades incluíram:
 - Construção dos dashboards no Power BI
 - Desenvolvimento de recursos de UX voltados à interpretação dos indicadores
 - Validação funcional da solução junto às áreas demandantes
-- Apresentação executiva do projeto para a Subsecretária do Tesouro e demais stakeholders envolvidos
+- Apresentação executiva do projeto para a alta gestão do Tesouro Estadual e demais stakeholders institucionais.
 
 O projeto foi desenvolvido com ownership e autonomia operacional, em interação direta com stakeholders de negócio e gestão, desde o levantamento de requisitos até a entrega final da solução.
 
