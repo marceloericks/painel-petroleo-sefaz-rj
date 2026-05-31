@@ -32,6 +32,21 @@ O projeto foi desenvolvido com ownership e autonomia operacional, em interação
 - Consolidação de informações provenientes de diferentes fontes institucionais
 - Criação de recursos de UX para contextualização e interpretação dos indicadores executivos
 
+## Principais Funcionalidades
+
+- Acompanhamento da arrecadação das receitas petrolíferas entre 2016 e 2026.
+- Monitoramento da destinação institucional dos recursos arrecadados.
+- Navegação dinâmica entre exercícios fiscais da série histórica.
+- Comparação entre previsão inicial, previsão atualizada e arrecadação realizada.
+- Indicadores acumulados de arrecadação por tipo de receita petrolífera.
+- Indicadores acumulados de destinação por órgão, fundo ou finalidade institucional.
+- Comparativos automáticos em valor nominal e percentual em relação ao exercício anterior.
+- Indicadores de execução da previsão, com identificação automática de cenários de atingimento, superação ou insuficiência da arrecadação prevista.
+- Visualização mensal das receitas em formato gráfico e tabular.
+- Análise da composição das receitas petrolíferas e da participação do petróleo nas receitas totais do Tesouro Estadual.
+- Implementação de regras fiscais específicas em DAX para diferentes períodos da série histórica.
+- Recursos de UX, tooltips informativos e elementos de contextualização voltados à interpretação dos indicadores executivos.
+
 ## Stack
 
 - Power BI
