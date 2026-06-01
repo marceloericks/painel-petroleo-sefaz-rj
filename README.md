@@ -90,7 +90,9 @@ Exemplo de utilização do painel para análise de um período de retração das
 
 ## Destinação de Recursos
 
-Painel voltado à análise da distribuição institucional dos recursos provenientes do petróleo.
+Painel voltado à análise da distribuição institucional dos recursos provenientes do petróleo, reunindo indicadores acumulados de destinação, comparativos anuais em valor nominal e percentual, composição dos repasses entre órgãos, fundos e finalidades específicas, além do acompanhamento mensal da execução dos recursos. 
+
+A solução também permite monitorar destinações estratégicas como RioPrevidência, FISED, FECAM, PASEP, Municípios, Fundo Soberano, Pagamento da Dívida com a União e Indenizações à União.
 
 ![Destinação de Recursos](dashboard-destinação.jpeg)
 
