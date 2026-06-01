@@ -96,6 +96,8 @@ Painel voltado à análise da distribuição institucional dos recursos provenie
 
 Acompanhamento da evolução das receitas petrolíferas entre 2016 e 2026, permitindo análises temporais, comparativos anuais e identificação de tendências ao longo de onze exercícios fiscais.
 
+A página reúne uma série histórica da arrecadação do petróleo e uma análise da participação dessas receitas no conjunto das receitas do Tesouro Estadual, permitindo avaliar tanto a evolução absoluta dos valores arrecadados quanto sua relevância relativa ao longo do tempo.
+
 ![Série Histórica](serie-historica.jpeg)
 
 ## Implementação de Regra Fiscal em DAX
