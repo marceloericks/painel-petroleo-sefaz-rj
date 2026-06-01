@@ -118,13 +118,13 @@ Recurso de tooltip desenvolvido para complementar os indicadores executivos com 
 
 ## UX e Contextualização
 
-Recursos desenvolvidos para ampliar a compreensão dos indicadores e facilitar a navegação dos usuários.
+Recursos de UX implementados para orientar a navegação dos usuários e facilitar a interpretação dos indicadores e funcionalidades disponíveis no painel.
 
 ![UX Tooltip](ux-tooltip.jpeg)
 
 ## Recursos Informativos
 
-Elementos complementares de contextualização institucional incorporados à solução.
+Recursos informativos incorporados ao painel para fornecer contexto sobre conceitos, receitas e regras de negócio relevantes, permitindo que os usuários interpretem os indicadores sem necessidade de consultar documentação externa.
 
 ![Bookmark Informativo](bookmark-informativo.jpeg)
 
