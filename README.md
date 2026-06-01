@@ -116,6 +116,12 @@ Recurso de tooltip desenvolvido para complementar os indicadores executivos com 
 
 ![Tooltip Variação](tooltip_variacao.png)
 
+## Indicadores de Execução da Previsão
+
+Recurso desenvolvido para acompanhar a execução das previsões de arrecadação, informando automaticamente cenários de atingimento, superação ou insuficiência, com indicação percentual e nominal dos valores excedentes ou necessários para alcance da meta prevista.
+
+![Execução da Previsão](execucao_previsao.png)
+
 ## UX e Contextualização
 
 Recursos de UX implementados para orientar a navegação dos usuários e facilitar a interpretação dos indicadores e funcionalidades disponíveis no painel.
