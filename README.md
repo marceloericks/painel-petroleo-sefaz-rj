@@ -72,7 +72,7 @@ O projeto foi desenvolvido com ownership e autonomia operacional, em interação
 
 Tela de entrada e navegação do painel.
 
-![Menu Inicial](menu-inicial.jpeg)
+![Menu Inicial](Menu_Inicial.png)
 
 ## Receita Arrecadada
 
