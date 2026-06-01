@@ -108,7 +108,7 @@ Exemplo de regra fiscal implementada para o FISED (Fundo Estadual de Investiment
 
 Tooltip desenvolvido para fornecer análises comparativas rápidas entre períodos.
 
-![Tooltip Variação](tooltip-variacao.jpeg)
+![Tooltip Variação](tooltip_variacao.png)
 
 ## UX e Contextualização
 
