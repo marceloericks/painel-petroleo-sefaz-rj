@@ -84,7 +84,7 @@ Painel executivo para acompanhamento da arrecadação das receitas petrolíferas
 
 Exemplo de utilização do painel para análise de um período de retração das receitas, evidenciando variações negativas e seus impactos nos indicadores de arrecadação.
 
-![Receita Arrecadada 2020](dashboard-receita-2020.jpeg)
+![Receita Arrecadada 2020](Dashboard_Receita_2020.png)
 
 ## Destinação de Recursos
 
