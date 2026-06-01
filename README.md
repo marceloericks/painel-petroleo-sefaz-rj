@@ -78,7 +78,7 @@ Tela de entrada e navegação do painel.
 
 Painel executivo para acompanhamento da arrecadação das receitas petrolíferas, com indicadores estratégicos, comparativos anuais e análises temporais.
 
-![Receita Arrecadada](dashboard_receita.png)
+![Receita Arrecadada](Dashboard_Receita.png)
 
 ## Receita Arrecadada — Cenário de 2020
 
