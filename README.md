@@ -70,7 +70,7 @@ O projeto foi desenvolvido com ownership e autonomia operacional, em interação
 
 ## Dashboard Inicial
 
-Tela de entrada e navegação do painel.
+Tela inicial desenvolvida para organizar a navegação da solução, permitindo acesso aos módulos de arrecadação e destinação de recursos por meio de uma interface simplificada e orientada à experiência do usuário.
 
 ![Menu Inicial](Menu_Inicial.png)
 
