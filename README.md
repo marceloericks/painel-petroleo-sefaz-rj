@@ -112,7 +112,7 @@ Exemplo de regra fiscal implementada para o FISED (Fundo Estadual de Investiment
 
 ## Indicadores de Variação
 
-Tooltip desenvolvido para fornecer análises comparativas rápidas entre períodos.
+Recurso de tooltip desenvolvido para complementar os indicadores executivos com comparativos automáticos em valor nominal e percentual, permitindo análises rápidas de evolução entre exercícios fiscais.
 
 ![Tooltip Variação](tooltip_variacao.png)
 
