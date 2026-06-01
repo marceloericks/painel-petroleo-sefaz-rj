@@ -76,9 +76,9 @@ Tela inicial desenvolvida para organizar a navegação da solução, permitindo 
 
 ## Receita Arrecadada
 
-Painel executivo para acompanhamento da arrecadação das receitas petrolíferas, reunindo indicadores acumulados de receita, comparativos anuais em valor nominal e percentual, acompanhamento da execução das previsões orçamentárias, composição das receitas petrolíferas e demonstrativos mensais de arrecadação.
+Painel executivo para acompanhamento da arrecadação das receitas petrolíferas, reunindo indicadores acumulados de receita, comparativos anuais em valor nominal e percentual, acompanhamento da execução das previsões orçamentárias, composição das receitas petrolíferas (Royalties, Participação Especial e Fundo Especial do Petróleo) e demonstrativos mensais de arrecadação.
 
-A solução também permite analisar a participação do petróleo nas receitas totais do Tesouro Estadual e acompanhar a evolução dos principais componentes da arrecadação por exercício fiscal.
+A solução também permite analisar a participação do petróleo nas receitas totais do Tesouro Estadual e acompanhar a evolução dos principais componentes da arrecadação por exercício fiscal, permitindo análises específicas por tipo de receita petrolífera.
 
 ![Receita Arrecadada](dashboard_receita.png)
 
